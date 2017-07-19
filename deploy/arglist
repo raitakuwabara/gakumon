@@ -1,0 +1,4 @@
+-d deploy\classes
+-s src\main\java
+-cp deploy\classes
+-encoding UTF8

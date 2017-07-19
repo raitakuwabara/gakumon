@@ -1,0 +1,2 @@
+deleteFile()メソッド試験用データ
+deleteFileで本ファイルは削除されます。

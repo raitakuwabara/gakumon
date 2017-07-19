@@ -1,0 +1,2 @@
+deleteIfExsitFile()メソッド試験用データ
+deleteIfExsitFile()で本ファイルは削除されます。
